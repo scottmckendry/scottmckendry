@@ -3,6 +3,7 @@
 ![image](wave.gif)
 
 ### Recent Blog Posts
+[![Latest Posts](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg)](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml)
 <!-- BLOG-POST-LIST:START -->
 - [DIY Network / Server Rack](https://scottmckendry.tech/diy-network-rack/)
 - [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
