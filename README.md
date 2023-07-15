@@ -2,7 +2,7 @@
 
 ![image](wave.gif)
 
-### Recent Blog posts
+### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [DIY Network / Server Rack](https://scottmckendry.tech/diy-network-rack/)
 - [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
