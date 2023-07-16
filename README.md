@@ -5,10 +5,10 @@
 ### Recent Blog Posts
 [![Latest Posts](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg)](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml)
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
 - [DIY Network / Server Rack](https://scottmckendry.tech/diy-network-rack/)
 - [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
 - [Cloud Failover for &quot;Maintenance&quot; Using Azure Static Web App &amp; Runbook](https://scottmckendry.tech/maintenance-web-app-azure/)
-- [A Makeshift Bitwarden Credential Sync Solution for Docker](https://scottmckendry.tech/docker-secret-management/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
