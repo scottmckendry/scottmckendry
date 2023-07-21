@@ -33,7 +33,7 @@
 
 <h3 align="center">Recent Blog Posts</h2>
 
-<div markdown=1 align="center" style="list-style-type: none;">
+<div markdown=1 align="center" style="list-style: none;">
 
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
