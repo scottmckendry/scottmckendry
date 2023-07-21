@@ -13,7 +13,7 @@
 - [Traefik - Replacing Basic Authentication with Azure SSO Using ForwardAuth](https://scottmckendry.tech/traefik-replacing-basic-authentication-with-sso/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="50" height="50"/> 
