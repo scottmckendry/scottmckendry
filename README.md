@@ -1,20 +1,9 @@
-## Scott McKendry - DevOps Engineer
+<h2 align="center"> Scott McKendry - DevOps Engineer</h2>
 
-![image](wave.gif)
+<p align="center"> <img src="wave.gif"> </p>
 
-### Recent Blog Posts
-[![Latest Posts](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg)](https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml)
-<!-- BLOG-POST-LIST:START -->
-- [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
-- [DIY Network / Server Rack](https://scottmckendry.tech/diy-network-rack/)
-- [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
-- [Cloud Failover for &quot;Maintenance&quot; Using Azure Static Web App &amp; Runbook](https://scottmckendry.tech/maintenance-web-app-azure/)
-- [A Makeshift Bitwarden Credential Sync Solution for Docker](https://scottmckendry.tech/docker-secret-management/)
-- [Traefik - Replacing Basic Authentication with Azure SSO Using ForwardAuth](https://scottmckendry.tech/traefik-replacing-basic-authentication-with-sso/)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="50" height="50"/> 
     </a> 
@@ -38,6 +27,21 @@
     </a> 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scottmckendry&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=scottmckendry&theme=transparent&hide_border=true"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scottmckendry&label=Profile%20views&color=0e75b6&style=flat" alt="scottmckendry" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scottmckendry&label=Profile%20views&color=0e75b6&style=flat" alt="scottmckendry" /> <img src="https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg" alt="scottmckendry" /> </p>
+
+<h3 align="center">Recent Blog Posts</h2>
+
+<div markdown=1 align="center">
+
+<!-- BLOG-POST-LIST:START -->
+- [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
+- [DIY Network / Server Rack](https://scottmckendry.tech/diy-network-rack/)
+- [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
+- [Cloud Failover for &quot;Maintenance&quot; Using Azure Static Web App &amp; Runbook](https://scottmckendry.tech/maintenance-web-app-azure/)
+- [A Makeshift Bitwarden Credential Sync Solution for Docker](https://scottmckendry.tech/docker-secret-management/)
+- [Traefik - Replacing Basic Authentication with Azure SSO Using ForwardAuth](https://scottmckendry.tech/traefik-replacing-basic-authentication-with-sso/)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
