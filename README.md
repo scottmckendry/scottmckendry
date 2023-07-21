@@ -1,17 +1,3 @@
-<head>
-<style>
-    body{
-        text-align: center;
-        font-family: "Comic Sans MS", "Comic Sans", cursive;
-    }
-    ul{
-        list-style-type: none;
-        padding: 0;
-    }
-
-</style>
-</head>
-
 ## Scott McKendry - DevOps Engineer
 
 ![img](wave.gif)
