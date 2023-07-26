@@ -41,3 +41,5 @@
 - [A Makeshift Bitwarden Credential Sync Solution for Docker](https://scottmckendry.tech/docker-secret-management/)
 - [Traefik - Replacing Basic Authentication with Azure SSO Using ForwardAuth](https://scottmckendry.tech/traefik-replacing-basic-authentication-with-sso/)
 <!-- BLOG-POST-LIST:END -->
+
+<p align=center><img src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" alt="gopher"/></p>
