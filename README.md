@@ -35,7 +35,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Sync My Dotfiles Between Windows and Linux Using GitHub Actions](https://scottmckendry.tech/how-i-sync-my-dotfiles-between-windows-and-linux-using-github-actions/)
-- [The Ultimite PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
+- [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
 - [DIY Network/Server Rack](https://scottmckendry.tech/diy-network-rack/)
 - [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
 - [Cloud Failover for &quot;Maintenance&quot; Using Azure Static Web App &amp; Runbook](https://scottmckendry.tech/maintenance-web-app-azure/)
