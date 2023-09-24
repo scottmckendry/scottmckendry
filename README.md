@@ -1,9 +1,32 @@
-## Scott McKendry - DevOps Engineer
+<p align="center">
+    <a href="https://scottmckendry.tech">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://scottmckendry.tech/img/logo/icon2transparent.png">
+            <img src="https://scottmckendry.tech/img/logo/icon1transparent.png" height="100">
+        </picture>
+    <h1 align="center">Scott McKendry - DevOps Engineer</h1>
+    </a>
+</p>
 
-![img](wave.gif)
+<p align="center">
+    <a href="https://scottmckendry.tech">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-scottmckendry.tech-blue?style=for-the-badge&logo=firefox&logoColor=%23fff&color=%23334460">
+    </a>
+    <a href="https://twitter.com/scott_mckendry">
+        <img alt="Twitter" src="https://img.shields.io/badge/-%40scott_mckendry-blue?style=for-the-badge&logo=x&color=%2315161e">
+    </a>
+    <a href="https://www.linkedin.com/in/scott-mckendry/">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-%40scott--mckendry-blue?style=for-the-badge&logo=linkedin&color=%231866be">
+    </a>
+</p>
 
-### Languages and Tools
-<p> 
+<p align="center">
+    <img alt="Wave" src="wave.gif">
+</p>
+
+<h3 align="center">Languages & Tools</h3>
+
+<p align="center"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="50" height="50"/> 
     </a> 
@@ -27,11 +50,13 @@
     </a> 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scottmckendry&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> 
+    <a href="https://scottmckendry.tech">
+        <img alt="github streak" src="https://github-readme-streak-stats.herokuapp.com?user=scottmckendry&theme=transparent&hide_border=true">
+    </a>
+</p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=scottmckendry&label=Profile%20views&color=0e75b6&style=flat" alt="scottmckendry" /> <img src="https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg" alt="scottmckendry" /> </p>
-
-<h3>Recent Blog Posts</h2>
+<h3>Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Moving My Blog From Ghost to Hugo](https://scottmckendry.tech/posts/hugo-blog/)
@@ -41,5 +66,5 @@
 - [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
 - [Cloud Failover for &quot;Maintenance&quot; Using Azure Static Web App &amp; Runbook](https://scottmckendry.tech/maintenance-web-app-azure/)
 <!-- BLOG-POST-LIST:END -->
-
+<p> <img src="https://komarev.com/ghpvc/?username=scottmckendry&label=Profile%20views&color=0e75b6&style=flat" alt="scottmckendry" /> <img src="https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg" alt="scottmckendry" /> </p>
 <p align=center><img src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" alt="gopher"/></p>
