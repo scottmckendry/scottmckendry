@@ -56,6 +56,8 @@
     </a>
 </p>
 
+<hr>
+
 <h3>Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
