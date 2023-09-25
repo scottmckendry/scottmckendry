@@ -13,7 +13,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/-scottmckendry.tech-blue?style=for-the-badge&logo=firefox&logoColor=%23fff&color=%23334460">
     </a>
     <a href="https://twitter.com/scott_mckendry">
-        <img alt="Twitter" src="https://img.shields.io/badge/-%40scott_mckendry-blue?style=for-the-badge&logo=x&color=%2315161e">
+        <img alt="Twitter" src="https://img.shields.io/badge/-%40scott__mckendry-blue?style=for-the-badge&logo=x&color=%2315161e">
     </a>
     <a href="https://www.linkedin.com/in/scott-mckendry/">
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40scott--mckendry-blue?style=for-the-badge&logo=linkedin&color=%231866be">
