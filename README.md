@@ -52,13 +52,24 @@
 
 <p align="center"> 
     <a href="https://scottmckendry.tech">
-        <img alt="github streak" src="https://github-readme-streak-stats.herokuapp.com?user=scottmckendry&theme=transparent&hide_border=true">
+        <img alt="github streak" src="https://github-readme-stats.vercel.app/api?username=scottmckendry&show_icons=true&theme=transparent&include_all_commits=true">
     </a>
 </p>
 
 <hr>
+<h3>🙋 About Me</h3>
+Hi! I'm Scott, a DevOps Engineer from New Zealand. I'm passionate about all things cloud, automation, and infrastructure as code. I'm also a certified <b>Azure DevOps Engineer Expert</b> and <b>Azure Administrator Associate</b>.
+<br><br>
+I'm always looking for new Go projects to contribute to, so if you have any ideas or are working on anything cool, let me know!
 
-<h3>Recent Blog Posts</h3>
+My current projects:
+
+-   🎨 [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - A high contrast, futuristic & vibrant colourscheme for Neovim written in Lua.
+-   🧪 [gotestsum.nvim](https://github.com/scottmckendry/gotestsum.nvim) - A Neovim wrapper for gotestsum, a popular Go test runner.
+-   📝 [Windots](https://github.com/scottmckendry/windots) - My personal "Windows-Friendly" dotfiles.
+-   🐕 [ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business.
+<br><br>
+<h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [The 5 Stages of Vim: A Humbling Experience](https://scottmckendry.tech/posts/vim-humbling/)
