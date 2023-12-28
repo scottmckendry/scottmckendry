@@ -30,18 +30,21 @@
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="50" height="50"/> 
     </a> 
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> 
+    </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
     </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
     </a> 
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> 
-    </a> 
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> 
-    </a> 
+    </a>
+    <a href="https://www.lua.org" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="50" height="50"/> 
+    </a>
     <a href="https://aka.ms/bicep" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/Azure/bicep/main/src/icons/bicep-logo-256.png" alt="bicep" width="50" height="50"/> 
     </a>
