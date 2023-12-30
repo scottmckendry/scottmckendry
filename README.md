@@ -75,12 +75,12 @@ My current projects:
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to &quot;Actually&quot; Audit SharePoint Permissions](https://scottmckendry.tech/sp-permissions-audit/)
 - [The 5 Stages of Vim: A Humbling Experience](https://scottmckendry.tech/posts/vim-humbling/)
 - [Moving My Blog From Ghost to Hugo](https://scottmckendry.tech/posts/hugo-blog/)
 - [How I Sync My Dotfiles Between Windows and Linux Using GitHub Actions](https://scottmckendry.tech/how-i-sync-my-dotfiles-between-windows-and-linux-using-github-actions/)
 - [The Ultimate PowerShell Profile](https://scottmckendry.tech/the-ultimate-powershell-profile/)
 - [DIY Network/Server Rack](https://scottmckendry.tech/diy-network-rack/)
-- [Monitoring On-Premise Web Applications with Azure App Insights](https://scottmckendry.tech/web-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 <p> <img src="https://komarev.com/ghpvc/?username=scottmckendry&label=Profile%20views&color=0e75b6&style=flat" alt="scottmckendry" /> <img src="https://github.com/scottmckendry/scottmckendry/actions/workflows/blogs.yml/badge.svg" alt="scottmckendry" /> </p>
 <p align=center><img src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" alt="gopher"/></p>
