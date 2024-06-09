@@ -68,7 +68,7 @@ I'm always looking for new Go projects to contribute to, so if you have any idea
 My current projects:
 
 -   🎨 [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - A high contrast, futuristic & vibrant colourscheme for Neovim written in Lua.
--   🧪 [gotestsum.nvim](https://github.com/scottmckendry/gotestsum.nvim) - A Neovim wrapper for gotestsum, a popular Go test runner.
+-   🖼️ [pat](https://github.com/scottmckendry/pat) - Like cat, but for pictures. Render images directly in the terminal.
 -   📝 [Windots](https://github.com/scottmckendry/windots) - My personal "Windows-Friendly" dotfiles.
 -   🐕 [ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business.
 <br><br>
