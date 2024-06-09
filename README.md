@@ -71,7 +71,11 @@ My current projects:
 -   🖼️ [pat](https://github.com/scottmckendry/pat) - Like cat, but for pictures. Render images directly in the terminal.
 -   📝 [Windots](https://github.com/scottmckendry/windots) - My personal "Windows-Friendly" dotfiles.
 -   🐕 [ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business.
+-   🌈 [ps-color-scripts](https://github.com/scottmckendry/ps-color-scripts) - A port of Derek Taylor's popular color-scripts package for PowerShell.
+-   🐧 [ps-arch-wsl](https://github.com/scottmckendry/ps-arch-wsl) - Install Arch Linux on Windows the easy way. btw.
+
 <br><br>
+
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
