@@ -74,8 +74,6 @@ My current projects:
 -   🌈 [ps-color-scripts](https://github.com/scottmckendry/ps-color-scripts) - A port of Derek Taylor's popular color-scripts package for PowerShell.
 -   🐧 [ps-arch-wsl](https://github.com/scottmckendry/ps-arch-wsl) - Install Arch Linux on Windows the easy way. btw.
 
-<br><br>
-
 <h3>✍️ Recent Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
