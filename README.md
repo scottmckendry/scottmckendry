@@ -6,6 +6,7 @@ _building things incorrectly, in public. the way it's meant to be._
 
 -   🎨 [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - A high contrast, futuristic & vibrant colourscheme for Neovim written in Lua.
 -   🧠 [mnemstart](https://github.com/scottmckendry/mnemstart) - A minimal browser start page with vim-inspired mnemonic shortcuts.
+-   ✍️ [commitscribe](https://github.com/scottmckendry/commitscribe) - LLM-powered Azure DevOps extension to automatically format and rewrite commit messages
 -   🖼️ [pat](https://github.com/scottmckendry/pat) - Like cat, but for pictures. Render images directly in the terminal.
 -   🔭 [telescope-ressession.nvim](https://github.com/scottmckendry/telescope-resession.nvim) - A [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) extension/wrapper for [resession.nvim](https://github.com/stevearc/resession.nvim).
 -   📝 [Windots](https://github.com/scottmckendry/windots) - My personal "Windows-Friendly" dotfiles.
