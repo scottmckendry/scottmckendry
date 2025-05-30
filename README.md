@@ -4,19 +4,35 @@ _building things incorrectly, in public. the way it's meant to be._
 
 ### 🔨 Projects
 
--   🎨 [cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - A high contrast, futuristic & vibrant colourscheme for Neovim written in Lua.
--   🧠 [mnemstart](https://github.com/scottmckendry/mnemstart) - A minimal browser start page with vim-inspired mnemonic shortcuts.
--   ✍️ [commitscribe](https://github.com/scottmckendry/commitscribe) - LLM-powered Azure DevOps extension to automatically format and rewrite commit messages
--   🖼️ [pat](https://github.com/scottmckendry/pat) - Like cat, but for pictures. Render images directly in the terminal.
--   🔭 [telescope-ressession.nvim](https://github.com/scottmckendry/telescope-resession.nvim) - A [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) extension/wrapper for [resession.nvim](https://github.com/stevearc/resession.nvim).
--   📝 [Windots](https://github.com/scottmckendry/windots) - My personal "Windows-Friendly" dotfiles.
--   🐕 [ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business.
--   🌈 [ps-color-scripts](https://github.com/scottmckendry/ps-color-scripts) - A port of Derek Taylor's popular color-scripts package for PowerShell.
--   🐧 [ps-arch-wsl](https://github.com/scottmckendry/ps-arch-wsl) - Install Arch Linux on Windows the easy way. btw.
+#### 🔄 DevOps Tools
+
+[![commitscribe](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=commitscribe&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/commitscribe)
+[![cl-parse](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=cl-parse&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/cl-parse)
+
+#### ⚓ Built for K8s/Docker
+
+[![ccinvoice](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=ccinvoice&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/ccinvoice)
+[![mnemstart](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=mnemstart&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/mnemstart)
+[![akahu-actual](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=akahu-actual&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/akahu-actual)
+[![axis](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=axis&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/axis)
+
+#### 📝 Neovim & Dotfiles
+
+[![cyberdream.nvim](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=cyberdream.nvim&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/cyberdream.nvim)
+[![telescope-resession.nvim](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=telescope-resession.nvim&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/telescope-resession.nvim)
+[![Windots](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=windots&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/windots)
+[![nix](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=nix&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/nix)
+
+#### 💻 CLI/Terminal Apps
+
+[![pat](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=pat&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/pat)
+[![ps-color-scripts](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=ps-color-scripts&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/ps-color-scripts)
+[![pokemon-go-colorscripts](https://github-readme-stats.vercel.app/api/pin/?username=scottmckendry&repo=pokemon-go-colorscripts&theme=tokyonight&bg_color=00000000&description_lines_count=2)](https://github.com/scottmckendry/pokemon-go-colorscripts)
 
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Releases for Normal People](https://scottmckendry.tech/releases-for-normal-people/)
 - [Custom Prompt Status Icons Using Starship](https://scottmckendry.tech/dotfile-icons/)
 - [How to &quot;Actually&quot; Audit SharePoint Permissions](https://scottmckendry.tech/sp-permissions-audit/)
