@@ -32,7 +32,6 @@ _building things incorrectly, in public. the way it's meant to be._
 ### ✍️ Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Releases for Normal People](https://scottmckendry.tech/releases-for-normal-people/)
 - [Custom Prompt Status Icons Using Starship](https://scottmckendry.tech/dotfile-icons/)
 - [How to &quot;Actually&quot; Audit SharePoint Permissions](https://scottmckendry.tech/sp-permissions-audit/)
